@@ -1,2 +1,2 @@
-# Real-time-Emotion-Detection-using-OpenCV-and-Python
-This project ventures into this strategic domain, focusing on the development of a system capable of interpreting human emotional states in real-time through the analysis of facial expressions.
+# Medical Diagnosis System
+The Medical Diagnosis System is an AI-based application that predicts possible diseases based on user-entered symptoms using machine learning, helping provide quick and preliminary health assessments.
